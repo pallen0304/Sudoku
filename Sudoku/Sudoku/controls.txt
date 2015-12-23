@@ -1,0 +1,11 @@
+c			toggle isConfirmed(orange/red; hovered over)
+i			set puzzle to premade
+r			reset puzzle
+s			save as backup
+L			load backup
+1-9			set number of cell(hovered over)
+enter			begin auto-solve
+escape			exit program
+delete			set cell to 0/unconfirmed(hovered over)
+leftclick[shift]	+1[+2](hovered over)
+rightclick[shift]	-1[-2](hovered over)
