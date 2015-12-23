@@ -1,4 +1,4 @@
-c			toggle isConfirmed(orange/red; hovered over)
+c			toggle isConfirmed(orange/green; hovered over)
 i			set puzzle to premade
 r			reset puzzle
 s			save as backup
